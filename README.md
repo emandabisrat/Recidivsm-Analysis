@@ -1,1 +1,1 @@
-This repository is a way to showcase my academic and independent projects pertaining to Data Science and Statistics.  
+This repository is a way to showcase my academic and independent projects pertaining to Data Science and Statistics. I have a variety of notebooks that showcase my Data Analysis, Data Cleaning and Preprocessing, Data Visualization, and Machine Learning skills. 
