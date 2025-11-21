@@ -1,6 +1,6 @@
-<img width="1024" height="455" alt="image" src="https://github.com/user-attachments/assets/b4e2e6e1-b281-4fd9-aa49-5c2eb00828e6" />
+![816BA763-1E7C-4490-8D79-3B6AD9138DD1_4_5005_c](https://github.com/user-attachments/assets/e88d6ee7-6c56-44f9-86cd-40560fd4dab9)
 
-
+## Project
 This projects analyzes Recedivism Rates and the factors that contribute to recidivism. 
 
 ## Background
